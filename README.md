@@ -1,0 +1,1 @@
+# collection-spell-checker
